@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32095
     wikipedia: http://fi.wikipedia.org/wiki/Olli_Wuorinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26555#Sepitelmi---Runon-kokeita
 gutenberg_issued: '2008-09-07'
 gutenberg_type: Text
 identifiers:
