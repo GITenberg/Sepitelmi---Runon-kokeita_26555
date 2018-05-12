@@ -1,0 +1,27 @@
+_repo: Sepitelmi---Runon-kokeita_26555
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wuorinen, Olli
+    birthdate: 1842
+    deathdate: 1917
+    gutenberg_agent_id: '32095'
+    url: http://www.gutenberg.org/2009/agents/32095
+    wikipedia: http://fi.wikipedia.org/wiki/Olli_Wuorinen
+description: ''
+gutenberg_issued: '2008-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26555'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry'
+- !lcc 'PH'
+title: 'Sepitelmiä: Runon-kokeita'
+url: http://www.gutenberg.org/ebooks/26555
